@@ -1,4 +1,5 @@
-Fatemeh Sadat Hosseini
+## Fatemeh Sadat Hosseini
+
 MSc in General Psychology | Cognitive Neuroscience Researcher
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatemeh-hosseini-4ab812285)
